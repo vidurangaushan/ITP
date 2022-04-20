@@ -3,7 +3,7 @@
 // Import Modules
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-//import AddHotel from "./AddHotel";
+import AddHotel from "./AddHotel";
 import { useParams } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 
